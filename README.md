@@ -1,4 +1,6 @@
 # Unit 4 Homework: Pandas, Pandas, Pandas
+Please open PyCitySchools_starter.ipynb file for grading.
+
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
 
